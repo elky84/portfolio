@@ -19,34 +19,34 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              오랜 기간 개발자로 살아오며 프로그래밍이 삶의 일부이자, 큰 부분이었습니다. 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />저는
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> C++, Javascript and Kotlin, C#, Java. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              제가 새로 관심을 가지고 있는 것은 &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">웹 기반의 생산성 높은 기술들입니다 </b> 
+                또한 {" "}
                 <b className="purple">
-                  Blockchain.
+                  TypeScript, Nest.js, React (& Next.js)
                 </b>
+                들도 관심이 있어요
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              여전히 C++이 가장 익숙하고 자신 있는 언어이고, C#이나 Kotlin을 백엔드 언어로 선호하긴 하지만
+              <b className="purple">Node.js</b>는 Frontend 개발로 인해 여러 상황에서 합리적인 선택이라 여겨 더 익숙해지고자 하고 있습니다.
               <i>
                 <b className="purple">
                   {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; 같은 것들 말이죠.
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/elky84/"
+                  href="https://www.linkedin.com/in/성훈-김-4089722ba/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
