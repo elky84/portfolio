@@ -62,7 +62,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "꾸준함, 고점도 중요하지만 저점을 높이는 태도 좋은 개발자를 지향합니다."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Elky (Kim SeongHoon)</footer>
         </blockquote>
       </Card.Body>
     </Card>
