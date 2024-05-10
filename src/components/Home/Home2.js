@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.jpeg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -23,8 +23,9 @@ function Home2() {
               <br />
               <br />저는
               <i>
-                <b className="purple"> C++, Javascript and Kotlin, C#, Java. </b>
+                <b className="purple"> C++, Javascript and Kotlin, C#, Java</b>
               </i>
+              를 다른 언어보다 능숙하게 다룹니다. 실무에서 Python, Ruby 등도 사용한 경험이 있습니다. &nbsp;
               <br />
               <br />
               제가 새로 관심을 가지고 있는 것은 &nbsp;
