@@ -37,6 +37,19 @@ function ProjectCards(props) {
           </Button>
         )}
 
+
+        {!props.isBlog && props.downloadLink && (
+          <Button
+            variant="primary"
+            href={props.downloadLink}
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            <CgWebsite /> &nbsp;
+            {"Download"}
+          </Button>
+        )}
+
         <br/>
 
         <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', marginTop: '8px' }}>

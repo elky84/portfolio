@@ -9,6 +9,7 @@ import lol from "../../Assets/Projects/lol.png";
 import rss from "../../Assets/Projects/rss.png";
 import webCrawler from "../../Assets/Projects/web-crawler.png";
 import light from "../../Assets/Projects/light.png";
+import srpg from "../../Assets/Projects/srpg.jpeg";
 
 import gm from "../../Assets/Projects/gm.png";
 
@@ -47,6 +48,7 @@ function Projects() {
               description="2D MMORPG 게임입니다"
               // ghLink="https://github.com/elky84/light"
               demoLink="https://www.youtube.com/watch?v=BVraOJ3WA5s"
+              downloadLink="https://drive.google.com/file/d/14gzmzYJ13sKcmOlVEuwDe238V0AN18wu/view?usp=drive_link"
             />
           </Col>
 
@@ -70,6 +72,18 @@ function Projects() {
               badges={['dotnet', 'C#', 'MongoDB']}
               description="C# .NET CORE로 만든 web-crawler 입니다."
               ghLink="https://github.com/elky84/web-crawler"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={srpg}
+              isBlog={false}
+              title="SRPG"
+              badges={['dotnet', 'C#', 'Unity3D']}
+              description="2D SRPG Game"
+              demoLink="https://www.youtube.com/watch?v=ojFI4uvDnhA"
+              downloadLink="https://drive.google.com/file/d/1_-8mTDF4bBEhYmt2-0e6ReAMbZtMGNA6/view?usp=sharing"   
             />
           </Col>
 
