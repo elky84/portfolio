@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5c203b32.css",
-    "main.js": "/portfolio/static/js/main.3d6e5651.js",
+    "main.js": "/portfolio/static/js/main.b0d41159.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/김성훈.pdf": "/portfolio/static/media/김성훈.afd6997adeaa64ac8378.pdf",
     "static/media/avatar.jpeg": "/portfolio/static/media/avatar.c1e558ffd2aa04db0efa.jpeg",
+    "static/media/srpg.jpeg": "/portfolio/static/media/srpg.343ff457afbb5db6cf66.jpeg",
     "static/media/blog.png": "/portfolio/static/media/blog.92be141a50ebf2ab17ff.png",
     "static/media/stock.png": "/portfolio/static/media/stock.b084af60a95df749c3de.png",
     "static/media/gm.png": "/portfolio/static/media/gm.72d1da553df6f85d04f1.png",
@@ -20,12 +21,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.5c203b32.css.map": "/portfolio/static/css/main.5c203b32.css.map",
-    "main.3d6e5651.js.map": "/portfolio/static/js/main.3d6e5651.js.map",
+    "main.b0d41159.js.map": "/portfolio/static/js/main.b0d41159.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c203b32.css",
-    "static/js/main.3d6e5651.js"
+    "static/js/main.b0d41159.js"
   ]
 }
